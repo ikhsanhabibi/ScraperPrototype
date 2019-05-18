@@ -10,3 +10,6 @@ What you have to do is :
   (sometimes it needs captcha key to open the website, make sure the website is open ,so that you can scrape)
 - Run the main.py
 - See the file gymlookip.csv (If it works, you will have all data from the website)
+
+
+source : https://stackoverflow.com/questions/54096972/scraping-paginated-results-using-python-beautifulsoup-3
