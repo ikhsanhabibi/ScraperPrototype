@@ -1,4 +1,4 @@
-# ScraperPrototype
+# scraper-prototype
 The first scraper project with pagination
 
 
